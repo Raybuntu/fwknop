@@ -31,5 +31,6 @@
   /usr/bin/gpg rix,
   /usr/sbin/fwknopd mr,
   /var/cache/nscd/passwd r,
+  /var/fwknop/** rwk,
 
 }
